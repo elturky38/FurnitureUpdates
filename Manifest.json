@@ -1,6 +1,8 @@
 {
+  "LauncherVersion": "1.0.0",
   "Version": "1.0.4",
   "FullInstall": {
+    "Version": "1.0.3",
     "Url": "https://www.dropbox.com/scl/fi/rq4uxr79g8obele7vtncx/FurnitureGame_1.0.3.zip?rlkey=rpv2lx0x2fy89ulzul0yp6hea&st=88xsd7g6&dl=1",
     "ZipFileName": "FurnitureGame_1.0.3.zip"
   },
