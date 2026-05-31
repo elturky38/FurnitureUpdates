@@ -1,12 +1,12 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "Files": [
     {
-      "FileName": "TestUpdate.txt",
-      "Url": "https://raw.githubusercontent.com/elturky38/FurnitureUpdates/refs/heads/main/TestUpdate.txt",
-      "InstallPath": "TestUpdate.txt",
-      "Type": "Test",
-      "RestartRequired": false
+      "FileName": "pakchunk1-Windows.pak",
+      "Url": "https://www.dropbox.com/scl/fi/ga8etborzgg8ndrehr7sl/pakchunk1-Windows.pak?rlkey=6c8m70u46ff3n7vhngwei1whe&st=oi3mkdfm&dl=1",
+      "InstallPath": "Furniture/Content/Paks/pakchunk1-Windows.pak",
+      "Type": "Pak",
+      "RestartRequired": true
     }
   ]
 }
