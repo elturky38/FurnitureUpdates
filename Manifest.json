@@ -1,12 +1,8 @@
 {
   "Version": "1.0.3",
-  "Files": [
-    {
-      "FileName": "pakchunk1-Windows.pak",
-      "Url": "https://www.dropbox.com/scl/fi/ga8etborzgg8ndrehr7sl/pakchunk1-Windows.pak?rlkey=6c8m70u46ff3n7vhngwei1whe&st=oi3mkdfm&dl=1",
-      "InstallPath": "Furniture/Content/Paks/pakchunk1-Windows.pak",
-      "Type": "Pak",
-      "RestartRequired": true
-    }
-  ]
+  "FullInstall": {
+    "Url": "https://www.dropbox.com/scl/fi/rq4uxr79g8obele7vtncx/FurnitureGame_1.0.3.zip?rlkey=rpv2lx0x2fy89ulzul0yp6hea&st=88xsd7g6&dl=1",
+    "ZipFileName": "FurnitureGame_1.0.3.zip"
+  },
+  "Files": []
 }
