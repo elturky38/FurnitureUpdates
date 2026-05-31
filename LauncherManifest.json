@@ -1,7 +1,7 @@
 {
-  "LauncherVersion": "1.0.1",
+  "LauncherVersion": "1.0.2",
   "LauncherUpdate": {
-    "Url": "PUT_NEW_FURNITURE_LAUNCHER_EXE_URL_HERE",
-    "FileName": "FurnitureLauncher.exe"
+    "Url": "https://www.dropbox.com/scl/fi/lj0nelqtewwdh5h7hpk2z/LauncherUpdate.zip?rlkey=g8m8m66c7z4jgjeuha1nq89m4&st=sokgeauf&dl=1",
+    "ZipFileName": "LauncherUpdate.zip"
   }
 }
