@@ -1,7 +1,22 @@
 {
-  "Version": "1.1",
-  "UpdateName": "Room01",
+  "Version": "6.1",
+  "UpdateName": "Furniture Prices Update",
   "ImageURL": "https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png",
-  "PakURL": "https://www.dropbox.com/scl/fi/lwdy30xh0m0dve9nwe02s/pakchunk1-Windows.pak?rlkey=maa48dcek0ik5pvdqhvl5h5n2&st=2ghmsbqo&dl=1",
-  "LevelName": "/Game/DLC/Room01/Maps/L_Room01"
+  "LevelName": "/Game/DLC/Room01/Maps/L_Room01",
+  "Files": [
+    {
+      "Type": "Pak",
+      "FileName": "pakchunk1-Windows.pak",
+      "InstallPath": "Furniture/Content/Paks/pakchunk1-Windows.pak",
+      "URL": "PUT_PAK_LINK_HERE",
+      "RestartRequired": false
+    },
+    {
+      "Type": "Exe",
+      "FileName": "Furniture.exe",
+      "InstallPath": "Furniture/Binaries/Win64/Furniture.exe",
+      "URL": "PUT_EXE_LINK_HERE",
+      "RestartRequired": true
+    }
+  ]
 }
