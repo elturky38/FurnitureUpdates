@@ -1,4 +1,12 @@
 {
   "Version": "1.0.2",
-  "Files": []
+  "Files": [
+    {
+      "FileName": "TestUpdate.txt",
+      "Url": "https://raw.githubusercontent.com/elturky38/FurnitureUpdates/refs/heads/main/TestUpdate.txt",
+      "InstallPath": "TestUpdate.txt",
+      "Type": "Test",
+      "RestartRequired": false
+    }
+  ]
 }
