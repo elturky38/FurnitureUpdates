@@ -1,5 +1,7 @@
 {
-  "LauncherVersion": "1.0.1",
-  "UpdateZipUrl": "رابط_الـ_zip_هنا",
-  "ZipFileName": "LauncherUpdate_1.0.2.zip"
+  "LauncherPackage": {
+    "Version": "1.0.1",
+    "Url": "https://www.dropbox.com/scl/fi/bgmv4x9eyebj81gn4bcmt/LauncherUpdate_1.0.1.zip?rlkey=silt7yu5k6pdymjo1btdcx87m&st=2zp6zsou&dl=1",
+    "ZipFileName": "LauncherUpdate_1.0.1.zip"
+  }
 }
