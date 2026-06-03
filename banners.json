@@ -1,14 +1,19 @@
 {
   "banners": [
     {
-      "title": "nix Studio",
-      "description": "Latest offers and updates",
-      "imageUrl": "https://www.your-image-link.com/banner1.png"
+      "title": "nix Launcher",
+      "description": "Manage your licensed apps from one place",
+      "imageUrl": "https://picsum.photos/seed/nix-banner-1/1200/420"
     },
     {
       "title": "Furniture Pro",
-      "description": "New version available",
-      "imageUrl": "https://www.your-image-link.com/banner2.png"
+      "description": "New tools and updates are available",
+      "imageUrl": "https://picsum.photos/seed/nix-banner-2/1200/420"
+    },
+    {
+      "title": "Latest Offers",
+      "description": "Exclusive programs for your company",
+      "imageUrl": "https://picsum.photos/seed/nix-banner-3/1200/420"
     }
   ]
 }
