@@ -1,1 +1,14 @@
-
+{
+  "banners": [
+    {
+      "title": "nix Studio",
+      "description": "Latest offers and updates",
+      "imageUrl": "https://www.your-image-link.com/banner1.png"
+    },
+    {
+      "title": "Furniture Pro",
+      "description": "New version available",
+      "imageUrl": "https://www.your-image-link.com/banner2.png"
+    }
+  ]
+}
