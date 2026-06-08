@@ -1,12 +1,12 @@
 {
-  "LauncherPackage": {
-    "Version": "1.0.31",
-    "Url": "https://www.dropbox.com/scl/fi/5ndo6psehfa0vz8f6m8wv/nix_1.0.31.zip?rlkey=p6vmanz43e3rwayjqza9yvyq4\u0026st=3l4ra5h6\u0026dl=1",
-    "MirrorUrls": [],
-    "ZipFileName": "nix_1.0.31.zip",
-    "EntryExe": "DosorLauncher.exe",
-    "SignerName": "Mohamed Turki",
-    "Sha256": "15997d245251ed8f17a2d83a096949b7f90536aa48b2046d50209143e3a9405a",
-    "Signature": "f\u002BCKovolH2VeSbpX29Fr/1LmA23p7uU9KGJ9KEBAq4\u002BdcMpf3lKBiMhGgyImqe0ltQZQewDUUNOJfvdprRfHZRYc9\u002BaQJOVriP1\u002BGLUS0KVyjMMM4MuHQdu41Z36bTbYT31AHd5KNuZHCXgWl5U0zhE61ItwGMGGbTIyBusiO2a5Ap\u002BZVUVlg4a8rqyWHIrQSDHspsxSWOPrHV2cI4T3gfJRty34IXWk4P/Iez03JbFR5OtDpODu6l7FqO9MqOQgPEDl3D2Sy\u002BGVakjHtt7u\u002Bbjl/SJc9xbdm5NUEQCRAEXoD9vGIUXf5fSjHpZyyyxFIe3coSNZhfpST2MpqEme83LREPhLBVcSf6lVSBo9tgBR7ulHsjdlmDN8NaOnTdtyD9v8HXmI9eJFsw5ZNUdBEhvhe4Nw9uh5ici3Q\u002B97h9xSU3XPXDNnuXHGU6/66WIPjlqOZYVR6W7YWE4kxbGJ8nKfO9UAS16z/l0sn50xs6vuaaDhhex9yGiwNn5zdJpNH6pGmCMaEoqNbZu4uSQbiHE7/LY3KNHSaqeqetIg7d/dcxtfHnSE90zYD7LoT4pfd1K1Nr0yUD5N5QOGB8uOslcRlblqvIh3UAfJ\u002BVVF7gFjqHEUeVdNV2igBsMTH\u002BGFf8iHDlbnIczDQ7n2tj1XudoPMQwi\u002BjD6M5/Tq8N1\u002BtE="
-  }
+"LauncherPackage": {
+"Version": "1.0.31",
+"Url": "https://www.dropbox.com/scl/fi/5ndo6psehfa0vz8f6m8wv/nix_1.0.31.zip?rlkey=p6vmanz43e3rwayjqza9yvyq4&st=3l4ra5h6&dl=1",
+"MirrorUrls": [],
+"ZipFileName": "nix_1.0.31.zip",
+"EntryExe": "DosorLauncher.exe",
+"SignerName": "Mohamed Turki",
+"Sha256": "15997d245251ed8f17a2d83a096949b7f90536aa48b2046d50209143e3a9405a",
+"Signature": "f+CKovolH2VeSbpX29Fr/1LmA23p7uU9KGJ9KEBAq4+dcMpf3lKBiMhGgyImqe0ltQZQewDUUNOJfvdprRfHZRYc9+aQJOVriP1+GLUS0KVyjMMM4MuHQdu41Z36bTbYT31AHd5KNuZHCXgWl5U0zhE61ItwGMGGbTIyBusiO2a5Ap+ZVUVlg4a8rqyWHIrQSDHspsxSWOPrHV2cI4T3gfJRty34IXWk4P/Iez03JbFR5OtDpODu6l7FqO9MqOQgPEDl3D2Sy+GVakjHtt7u+bjl/SJc9xbdm5NUEQCRAEXoD9vGIUXf5fSjHpZyyyxFIe3coSNZhfpST2MpqEme83LREPhLBVcSf6lVSBo9tgBR7ulHsjdlmDN8NaOnTdtyD9v8HXmI9eJFsw5ZNUdBEhvhe4Nw9uh5ici3Q+97h9xSU3XPXDNnuXHGU6/66WIPjlqOZYVR6W7YWE4kxbGJ8nKfO9UAS16z/l0sn50xs6vuaaDhhex9yGiwNn5zdJpNH6pGmCMaEoqNbZu4uSQbiHE7/LY3KNHSaqeqetIg7d/dcxtfHnSE90zYD7LoT4pfd1K1Nr0yUD5N5QOGB8uOslcRlblqvIh3UAfJ+VVF7gFjqHEUeVdNV2igBsMTH+GFf8iHDlbnIczDQ7n2tj1XudoPMQwi+jD6M5/Tq8N1+tE="
+}
 }
