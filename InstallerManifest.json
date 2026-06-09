@@ -1,11 +1,12 @@
 {
-"LauncherPackage": {
-"Version": "1.0.34",
-"Url": "https://www.dropbox.com/scl/fi/1jo056wd2x8f1e67gmabf/nix_1.0.34.zip?rlkey=3bpxtzox3n7er5f2tnr6iwqc9&st=p4yzv7gy&dl=1",
-"MirrorUrls": [],
-"ZipFileName": "nix_1.0.34.zip",
-"EntryExe": "DosorLauncher.exe",
-"SignerName": "Mohamed Turki",
-"Sha256": "d6be49cd7c487e202308e62a6b2e1687e9d0500101a7ccf13691850b9dede457"
-}
+  "LauncherPackage": {
+    "Version": "1.0.34",
+    "Url": "https://www.dropbox.com/scl/fi/1jo056wd2x8f1e67gmabf/nix_1.0.34.zip?rlkey=3bpxtzox3n7er5f2tnr6iwqc9\u0026st=p4yzv7gy\u0026dl=1",
+    "MirrorUrls": [],
+    "ZipFileName": "nix_1.0.34.zip",
+    "EntryExe": "DosorLauncher.exe",
+    "SignerName": "Mohamed Turki",
+    "Sha256": "d6be49cd7c487e202308e62a6b2e1687e9d0500101a7ccf13691850b9dede457",
+    "Signature": "ZyxPMESEtEK/DvVzyP\u002BhDU\u002Byuq/o6JEFNr8EAcP9tqd4G45PduU8G0UqnoQ7dkXasjDwkz3VTiIRtV\u002Blkj3IeLZQIlwjQD2osNvI0M/ELSuP4k4fTmY/GC/V0eqsJsX8c5j/WaZ/X63ixKtR3zLRn8JfFEssqVaiRqMJ\u002BPnUZvwRExKO0WYzuc\u002BrypoEOVhpRUIMI\u002B3DPf\u002BUT4vaaWL6OwPUo453q47Tx1h\u002B/d/yQ5h33nyIbBj8YXLYoxXRYE5MIIRWsYLue2TaSIsnWDu2gyb1Qhx5mLato1cMUWrVIG1yyjZZfc1epn/mWS\u002BEJ8WFbl9EoVzey6ksqqXrC5s97im9b0KbSk1bMNAOw8BzJc1B1WelQ68DGdihkrZb/H56RYm0xVjNKA0PBUTXb9XfPMf03kXblevZwEKOCsTVtmNatbq\u002BldkO0PcaEZoIsJM2hGwMXQRDbzBOObrT0zv5UwT0N\u002Bp2MxCEPM7rngpWKxcYj6REchCB8PdpqVMSQtLAUQozwVaXw8bKVUSJZ\u002BcsJYpvOY/2OTMqlu\u002BTBLtQR3bhuzI28DfP3iUGmqikB29CBHw3PnrcxlDbWI5fgB8Nx6oZTwwfnxZrju8VkbzLykrITnZO8h16f570a3KBaERPAOHvbwEQS/NQuIRUpXCrEWUhkt16/zjah81/4GEz/iw="
+  }
 }
