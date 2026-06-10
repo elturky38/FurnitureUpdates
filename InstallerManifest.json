@@ -1,12 +1,12 @@
 {
   "LauncherPackage": {
-    "Version": "1.0.36",
-    "Url": "https://www.dropbox.com/scl/fi/3xyxvu8twjd0ewhdq9hzf/nix_1.0.36.zip?rlkey=b9lvmq47jti6q2ml2ha37b75f\u0026st=o1irxavq\u0026dl=1",
+    "Version": "1.0.37",
+    "Url": "https://www.dropbox.com/scl/fi/5j4g9zcn1sjo9pzhc23k0/nix_1.0.37.zip?rlkey=1xo2z9fo14vmh2okantya99fq\u0026st=dmq9dwxo\u0026dl=1",
     "MirrorUrls": [],
-    "ZipFileName": "nix_1.0.36.zip",
+    "ZipFileName": "nix_1.0.37.zip",
     "EntryExe": "DosorLauncher.exe",
     "SignerName": "Mohamed Turki",
-    "Sha256": "c5d2d4b0bf9f886a2e85179c73ecf08c173433d990145431f52534f1b9d9adb5",
-    "Signature": "vhQkFF3RwExcT8OWaR88FoME\u002BM7nm0snAMM1d6sEFB3n3eeKSmFgD21gZcOXtKQexy2vCdsZcT\u002BZUrmEnFE\u002BT8YheQrpcYW511P8yMb\u002BeyxeSoDpgE3IIRrmJpyTgcKjkg5jYlnrRn26r9U10fqUZlby0mMhn6bUxOOCwxZCG8p5OTnPCwbI37/LynsAP19Z7tvS8dY6LEVl\u002Bf/va4Gee0i9ROlXgbBXXy\u002Be1od7Yg\u002Bs3nxLllQCSzQGBPOTqMhosmBQzHh5qW8ByCLkNLrzsTkO98M\u002BULsHuy6WZAqobNkSUsIHAqT20lVAIX/oZFulIZ/vwlfKnR7QrudV5laRUg4fKTyKMMfYsgumdMwasf2N8BLSg1nWM2LelLpElK/ebkCvy0iWZCbidut4xj392TzDoKC5N1vcw5CjvEYeA0lCH6\u002BDn3rA5TuMELE/9uqlnaurZWSvY4ciW0N66in9LhZQs/ey\u002B6c8obDG6tFPnHFlt8cPHWNocLbmYbG8bZ5e\u002BRJ5sLAfLkc2A4kaB/0Vo8C0Pm7GJbis19DgF6P8On6QUJJmllWJgJ0C0ClAYonyuEdBVP5tZzM8GtJA0/xROUBOOWbpXZdayO36Ipom02NvEiZvksbPro4yy8xHsoO56CLJFXbCuvzs8EKiDppmWf/W9xq8bdSEsCn7IKp3Oes="
+    "Sha256": "1e00b8ad9d641661587fb873fa45533ba524376d49b13ed14290b191813cc0c1",
+    "Signature": "Wj4Sz7/d3XVv0xCC6rmux7/FOogeeSeibleMdibH6ftjLwg1seXZq653Z7IdNWHzyTl203mQdnEIJQkRzOs6CVY5HvJ07LgvIL1NU7x/r1SGDTdKZon2evgblp6c4NhbJFqFydxCrNVUzqMnmV6EUmv7V2gka4OQzOsdY4ySszrXod/OvI4ZfpSpgUNhrvp3g3ySgbDtIqQE4tMGPvzb3Zk8e3SoJvqQtpTnhWGxY5rWNkZS9oTAeZi6BbmdAEIkc0DSef\u002BTrMjlw2Kd0IX8NEp1Q8T6w25PNewyBsyvA3RpZocP\u002B2ujVnLnB3gf0ruOYM3gXEq5HklsrUcSCUqAmIMxMCofWQBCrKk6DlLbUFDUMcHhiMHPyYZeRIKIa4rgKCTiEKfLvJ16BcrQQxdH0umcDNcdorKbQkfcg77gAqkaHO5bWxxx8oHDBenDGU1kKrPmh/XAk\u002BFPBe7GGumZtK1LhPACWsRP9CTM5xIhqe/IxAyXzLn/okxnCQ3uw5md1ZGrfQUwlxvqkYNP2bm9Er/sQkhcLdzaUneQvTjX2UCv0rO8OtT6q7I\u002BIT75BH\u002BbiDrjB5YGrnGqsUhNNPWPKRUR54Z2UNzPZfGjHgJw5lbsecUi85LyLMiVjwUV9FNGqDkhvyFaXaVColvRQHkPlNa5pd7muelpLXZFJek8Ras="
   }
 }
