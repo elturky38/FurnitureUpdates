@@ -1,12 +1,12 @@
 {
   "LauncherPackage": {
-    "Version": "1.0.37",
-    "Url": "https://www.dropbox.com/scl/fi/5j4g9zcn1sjo9pzhc23k0/nix_1.0.37.zip?rlkey=1xo2z9fo14vmh2okantya99fq\u0026st=dmq9dwxo\u0026dl=1",
+    "Version": "1.0.38",
+    "Url": "https://www.dropbox.com/scl/fi/0x6oyv53izdh45d405xjl/nix_1.0.38.zip?rlkey=vqptdpfx0nnch2fu6mi5vr55z&st=r9dlji1t&dl=1",
     "MirrorUrls": [],
-    "ZipFileName": "nix_1.0.37.zip",
+    "ZipFileName": "nix_1.0.38.zip",
     "EntryExe": "DosorLauncher.exe",
     "SignerName": "Mohamed Turki",
-    "Sha256": "1e00b8ad9d641661587fb873fa45533ba524376d49b13ed14290b191813cc0c1",
-    "Signature": "Wj4Sz7/d3XVv0xCC6rmux7/FOogeeSeibleMdibH6ftjLwg1seXZq653Z7IdNWHzyTl203mQdnEIJQkRzOs6CVY5HvJ07LgvIL1NU7x/r1SGDTdKZon2evgblp6c4NhbJFqFydxCrNVUzqMnmV6EUmv7V2gka4OQzOsdY4ySszrXod/OvI4ZfpSpgUNhrvp3g3ySgbDtIqQE4tMGPvzb3Zk8e3SoJvqQtpTnhWGxY5rWNkZS9oTAeZi6BbmdAEIkc0DSef\u002BTrMjlw2Kd0IX8NEp1Q8T6w25PNewyBsyvA3RpZocP\u002B2ujVnLnB3gf0ruOYM3gXEq5HklsrUcSCUqAmIMxMCofWQBCrKk6DlLbUFDUMcHhiMHPyYZeRIKIa4rgKCTiEKfLvJ16BcrQQxdH0umcDNcdorKbQkfcg77gAqkaHO5bWxxx8oHDBenDGU1kKrPmh/XAk\u002BFPBe7GGumZtK1LhPACWsRP9CTM5xIhqe/IxAyXzLn/okxnCQ3uw5md1ZGrfQUwlxvqkYNP2bm9Er/sQkhcLdzaUneQvTjX2UCv0rO8OtT6q7I\u002BIT75BH\u002BbiDrjB5YGrnGqsUhNNPWPKRUR54Z2UNzPZfGjHgJw5lbsecUi85LyLMiVjwUV9FNGqDkhvyFaXaVColvRQHkPlNa5pd7muelpLXZFJek8Ras="
+    "Sha256": "a2283f5bbcb53552891f6e7a1f6601ac0a403e484ba3a6e29bd8ff11e05ccdf9",
+    "Signature": "Yb4JQ99cSwvIsEheY5zdmrLkXfHxW+K4H/69E05fJs6QDlgCaSJpR2wMFsdBQlMt5Ch8TLf+GL6FPuatPx69zu92lFV1Co8PHLWesr8LqOIWXqd+lPgpICxsMERCNlezmTn5bjDm3VRECAZacZYvX/HFUjdaQVoOVlbiWgIIwvK5qTvSWJmgYaTT6j+HaQedOXhnyLxBpCdBMWtSqHe10z16gtvcq2xJOkCAXiqTcaIV2+ORThbquIrgw7sxci1uberRv+5U4OJwNNpdJvTr0j6i7SNkjlaZh4aFgbsPN4jFSNHjmDWzW6bXipyPtcmE4eCF9V3JnbE9e4PAWXzkj/W+l4k23zQxlt5H2z4KsCE1UpfR8UHF7clZ7M/GsTat/1kBURmRQ8e2H8Ju16qS5Hdnpv3ATAlbQs+6Dk3VL/Y5sAv+kkci6I+nnH7R6aOUQrOkymHccX+jS9G3MFvklPQg/Fyq7i/MW1+yRkGG8rUsLurEpRgAnF37lWZklSeRWbtn9x1UfIlHa4dUeV+fVJvfULRX6OiZPMcj8rutCwo9MZXevHgbEc+On7+jEbntQWCvaxKxwvfUJcmkZFxwvImA7NY8Mq0n97Aooo9eD27v/YNluTT3ZiJKh76AJFFlIUI0tb5Yrl/qSwu3ntORRE7ee6LJ0GdO8azj07lMlYY="
   }
 }
