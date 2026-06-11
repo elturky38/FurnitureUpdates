@@ -1,9 +1,9 @@
 {
   "LauncherPackage": {
-    "Version": "1.0.34",
+    "Version": "1.0.40",
     "Url": "https://www.dropbox.com/scl/fi/mamfttz6rcww3rz960ept/nix_1.0.40.zip?rlkey=ue0i2nwlx8psdsf08vjhm7viv&st=95z6n3g6&dl=1",
     "MirrorUrls": [],
-    "ZipFileName": "nix_1.0.34.zip",
+    "ZipFileName": "nix_1.0.40.zip",
     "EntryExe": "DosorLauncher.exe",
     "SignerName": "Mohamed Turki",
     "Sha256": "8075e2eac3619705ff9130cf521349a3c4c8d26478e4416d24100bcf44932d8b",
