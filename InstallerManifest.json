@@ -1,12 +1,12 @@
 {
   "LauncherPackage": {
-    "Version": "1.0.39",
-    "Url": "https://www.dropbox.com/scl/fi/kx8m5bfgkn4sky2f4kso9/nix_1.0.39.zip?rlkey=l2p1o690wrpn9rhcig3ym177j&st=qa2ybks0&dl=1",
+    "Version": "1.0.34",
+    "Url": "https://www.dropbox.com/scl/fi/mamfttz6rcww3rz960ept/nix_1.0.40.zip?rlkey=ue0i2nwlx8psdsf08vjhm7viv&st=95z6n3g6&dl=1",
     "MirrorUrls": [],
-    "ZipFileName": "nix_1.0.39.zip",
+    "ZipFileName": "nix_1.0.34.zip",
     "EntryExe": "DosorLauncher.exe",
     "SignerName": "Mohamed Turki",
-    "Sha256": "c3a678c2ac4675792e2c9c7a1832bb882f0ec209d3323d5ca0f0a4bd39d569e6",
-    "Signature": "ll+y/JvBZvSkGpFzW5h1cALH95n2aQSc8ioztvR9JHawsINJ6WuXUZ5NeQS2MDJCnikYncoajJ9j9cZ+mjk4h72y99SyXVYL7xfjV+eHe6Fx3ifn2OZchKkc+tL3v/d9edVre5jQD+6LRRODrD43peZ5xHfFeg7ENhpE+ZaqR/G3Bo6iYJVOgG1/yANDsrqyg1CzOduSwMZc0a7N1u6ZNtnHFQSmXP9wbEXHTv52iPlrTKChgW0lMPNEIE3VtsiePpxx9uq9kH7wQwGVK+JILtQYskA1Yvs0ERd4UK/VmOikJMDEJjp1ZoZRJsY7r1pVtyGGHv+xbxMVYYN2FdV+I6vFPX5fnqMOg3dMiDD588G2j6ggY1l9epBHsghoWPCFWmUkbPMkIhpBPUMGT23WxumjaVjEb1RVQ2tFNwLpgtQmEELPMnqCi+/N0JeMZkMKT15bkfNlpmTuG7cxS4myKFddaejaL6AjnHVXNiwje4bTIRAfCDStG3RzkZebnaN0MWny45xu+MylMeEDKv8L+1W/bYh5gYZ2GBlAyXANVFexxKyEDkdSnfnD8pt9b2R8JCAqvduGSo8w4kYVn995d1k2Ipr8xeYGLH0E2zttuRLXpG5FemXJdRSrF2tKD4HlfSMeBN2rc7LQfv/oUmEyqXwSZxXNOBUGSdQ1nDseKNs="
+    "Sha256": "8075e2eac3619705ff9130cf521349a3c4c8d26478e4416d24100bcf44932d8b",
+    "Signature": "olI1w6ykdzMNgtqI8/fVsCW9jhsq+m1Lgy8aWKajunK+w3A+dByAxXY0NHiQWFT4ucSh0/FOB649GCiCbZhWHexkBQGw6Ade/Z25FQ7KGhWNUe/9XfhmJIkBnDW/kz7XSfSif8K7sebVxhx/2+1QG92iH6fqwdX6GDOKwJU8Ro8XrfVJl6JyLZ1pzvdIWVpIeD3HuviVtG7MXXbBHtPjPZHkebjqgg+YVmNLCXHCH4XXnWreTXusJCE92ixQJ1Qb18FVTJTU5VWKg4GI82h5/1OxPyMordPgiaSCd6c09gM0wBrawN5FkUa5YPoe+iq9XSihvn87imgklQVb/wqjpCfV2TjI/6wB02f2FXf+S6CzpfbU4WSdJroQP+FeJuNci0YitZRXWPmaZtu19Ro5DJD2fTXhPtd6SnpArpmgTHa7ONpI6talSraOI3o4184P5WkzVxZQlSMfNf2iCz3kOMNjMP6/GWLitB9qbtJIFenL2xYi+Ou3mpGpDHaAUeZOY81pMc+71ZsmFTc1pFmEKoWNuVHoXM2fICOWytIef0WK3+SUlNnUu7jCc9K3epn/pCFwfwx+WNYhpNyC/3P8Pw7boA4aczPhk308cJ7UiHZPKF6KE591wpMvQ2p5zHbJdOy+YBpJycghRT1Y4joNGrV5otbBvKMw3AeFyGqGb0I="
   }
 }
