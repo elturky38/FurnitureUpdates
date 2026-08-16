@@ -1,19 +1,44 @@
 {
   "banners": [
     {
-      "title": "nix Launcher",
-      "description": "Manage your licensed apps from one place",
-      "imageUrl": "https://picsum.photos/seed/nix-banner-1/1200/420"
+      "title": "THE GROOVE 1",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-1.png"
     },
     {
-      "title": "Furniture Pro",
-      "description": "New tools and updates are available",
-      "imageUrl": "https://picsum.photos/seed/nix-banner-2/1200/420"
+      "title": "THE GROOVE 2",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-2.png"
     },
     {
-      "title": "Latest Offers",
-      "description": "Exclusive programs for your company",
-      "imageUrl": "https://picsum.photos/seed/nix-banner-3/1200/420"
+      "title": "THE GROOVE 3",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-3.png"
+    },
+    {
+      "title": "THE GROOVE 4",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-4.png"
+    },
+    {
+      "title": "THE GROOVE 5",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-5.png"
+    },
+    {
+      "title": "THE GROOVE 6",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-6.png"
+    },
+    {
+      "title": "THE GROOVE 7",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-7.png"
+    },
+    {
+      "title": "THE GROOVE 8",
+      "description": "",
+      "imageUrl": "https://ypwxeiezaoughbkebbuy.supabase.co/storage/v1/object/public/banners/groove-8.png"
     }
   ]
 }
